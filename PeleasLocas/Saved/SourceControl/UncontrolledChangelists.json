@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Software/Unreal/Projects/PeleasLocas/PeleasLocas/Content/Ivan/IvanTesting.umap",
+				"D:/Software/Unreal/Projects/PeleasLocas/PeleasLocas/Content/Ivan/BP_Hitbox.uasset",
+				"D:/Software/Unreal/Projects/PeleasLocas/PeleasLocas/Content/Ivan/BP_ThirdPersonCharacter1.uasset",
+				"D:/Software/Unreal/Projects/PeleasLocas/PeleasLocas/Content/Ivan/BP_ThirdPersonGameMode1.uasset"
+			]
+		}
+	]
+}
