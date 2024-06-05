@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/finge/Documents/GitHub/PeleasLocas/PeleasLocas/Content/_Kai/Images/character1.uasset",
+				"C:/Users/finge/Documents/GitHub/PeleasLocas/PeleasLocas/Content/_Kai/Images/character2.uasset",
+				"C:/Users/finge/Documents/GitHub/PeleasLocas/PeleasLocas/Content/_Kai/WBP_CharacterSelection.uasset",
+				"C:/Users/finge/Documents/GitHub/PeleasLocas/PeleasLocas/Content/_Kai/LVL_CharacterSelection.umap",
+				"C:/Users/finge/Documents/GitHub/PeleasLocas/PeleasLocas/Content/_Kai/BP_GameInstance.uasset",
+				"C:/Users/finge/Documents/GitHub/PeleasLocas/PeleasLocas/Content/_Kai/Images/NoCharacter.uasset",
+				"C:/Users/finge/Documents/GitHub/PeleasLocas/PeleasLocas/Content/_Kai/Sounds/WillyHithere.uasset"
+			]
+		}
+	]
+}
