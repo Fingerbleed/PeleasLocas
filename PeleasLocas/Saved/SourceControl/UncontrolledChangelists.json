@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_Fighter.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_FighterGame.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FE/DJTB35KUJL5GZGX72LY59B.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_ThirdPersonFigther.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XX/WG3DONY0D4FH8VG8SGL7HE.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1_Fighter.uasset"
+			]
+		}
+	]
+}
