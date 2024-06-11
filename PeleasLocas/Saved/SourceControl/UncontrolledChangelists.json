@@ -11,8 +11,11 @@
 				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/PeleasLocas/PeleasLocas/Content/Menu/MaiMenu.umap",
 				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/PeleasLocas/PeleasLocas/Content/Menu/MaiMenuLevel.umap",
 				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/PeleasLocas/PeleasLocas/Content/Menu/Widget_Options.uasset",
-				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/PeleasLocas/PeleasLocas/Content/Menu/BP_PlayerMenu.uasset",
-				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/PeleasLocas/PeleasLocas/Content/Menu/BP_GameModeMenu.uasset"
+				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/PeleasLocas/PeleasLocas/Content/Menu/BP_GameModeMenu.uasset",
+				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/PeleasLocas/PeleasLocas/Content/Menu/MainMenu_PC.uasset",
+				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/PeleasLocas/PeleasLocas/Content/Menu/Pausa_WG.uasset",
+				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/PeleasLocas/PeleasLocas/Content/Menu/BP_PlayerMenu.uasset"
 			]
 		}
 	]
