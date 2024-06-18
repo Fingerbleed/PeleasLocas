@@ -5,10 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Software/Unreal/Projects/PeleasLocas/PeleasLocas/Content/Ivan/IvanTesting.umap",
-				"D:/Software/Unreal/Projects/PeleasLocas/PeleasLocas/Content/Ivan/BP_Hitbox.uasset",
-				"D:/Software/Unreal/Projects/PeleasLocas/PeleasLocas/Content/Ivan/BP_ThirdPersonCharacter1.uasset",
-				"D:/Software/Unreal/Projects/PeleasLocas/PeleasLocas/Content/Ivan/BP_ThirdPersonGameMode1.uasset"
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_Fighter.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_FighterGame.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_ThirdPersonFigther.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XX/WG3DONY0D4FH8VG8SGL7HE.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZR/NY3PWY6SA9VZFDD453VCA3.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/XD/5RGOKSN4B1ZRTJR4ZP4K2B.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FE/DJTB35KUJL5GZGX72LY59B.uasset",
+				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1_Fighter.uasset"
 			]
 		}
 	]
