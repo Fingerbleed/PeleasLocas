@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Software/Unreal/Projects/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_ThirdPersonFigther.uasset",
+				"D:/Software/Unreal/Projects/PeleasLocas/PeleasLocas/Content/Ivan/BP_Hitbox.uasset",
+				"D:/Software/Unreal/Projects/PeleasLocas/PeleasLocas/Content/Ivan/BP_ThirdPersonCharacter1.uasset",
 				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_Fighter.uasset",
 				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Blueprints/BP_FighterGame.uasset",
 				"C:/Users/Marco/Documents/GitHub/PeleasLocas/PeleasLocas/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
